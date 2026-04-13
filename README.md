@@ -134,7 +134,7 @@ Healthcare insurance fraud â€” where providers submit false or inflated claims â
 | Name | Role | GitHub |
 |---|---|---|
 | [Swasthika S] | ML Model Training, Feature Engineering,  Data Preprocessing, EDA  | [https://github.com/SwasthikaSelvakumar] |
-| [ROkith S] | Flask Deployment, UI, Documentation, Report| [@username] |
+| [Rokith S] | Flask Deployment, UI, Documentation, Report| [https://github.com/rokith737] |
 
 > **Department:** AIML 
 
