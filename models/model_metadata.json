@@ -1,0 +1,11 @@
+{
+  "best_model": "Ensemble (XGB+LGBM+RF)",
+  "best_threshold": 0.73,
+  "val_auc_roc": 0.9704,
+  "val_f1": 0.7213,
+  "val_precision": 0.8049,
+  "val_recall": 0.6535,
+  "feature_count": 74,
+  "train_size_smote": 7846,
+  "val_size": 1082
+}

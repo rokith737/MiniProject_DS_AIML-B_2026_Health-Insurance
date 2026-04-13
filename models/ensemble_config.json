@@ -1,0 +1,15 @@
+{
+  "models": [
+    "model_xgboost.pkl",
+    "model_lightgbm.pkl",
+    "model_random_forest.pkl"
+  ],
+  "weights": [
+    3,
+    3,
+    1
+  ],
+  "threshold": 0.73,
+  "auc_roc": 0.9704,
+  "f1": 0.7213
+}
